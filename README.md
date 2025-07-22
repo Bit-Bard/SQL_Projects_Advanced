@@ -229,9 +229,7 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 
 This is a complete, real-world data analyst portfolio project based on an e-commerce inventory dataset scraped from [Zepto](https://www.zeptonow.com/) — one of India’s fastest-growing quick-commerce startups. This project simulates real analyst workflows, from raw data exploration to business-focused data analysis.
 
- ## zepto logo
- ![Zepto](Zepto%Analysis/Zepto_Logo.png)
- 
+![Zepto](Zepto%20Analysis/Zepto_Logo.png)
  
 **Project Title**: Zepto Sales  Analysis
 **Level**: Advanced 
@@ -400,16 +398,3 @@ The goal is to simulate how actual data analysts in the e-commerce or retail ind
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 Thank you for your support, and I look forward to connecting with you!
-
-
-
-
-
-
-
-
-
-
-
-
-
